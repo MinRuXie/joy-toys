@@ -1,0 +1,1 @@
+import{_ as o,r,a as t,c,d as s}from"./index.f4c16058.js";const n={name:"ThePublic",setup(){}},a={class:"wrapper-inner public"};function p(_,i,u,l,d,m){const e=r("router-view");return t(),c("div",a,[s(e)])}var v=o(n,[["render",p]]);export{v as default};
