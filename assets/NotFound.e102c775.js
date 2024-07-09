@@ -1,0 +1,1 @@
+import{_ as e,a as o,c as t}from"./index.5752d9aa.js";const n={name:"NotFound"};function a(r,c,s,_,p,u){return o(),t("h1",null,"Hi! \u4F60\u8AA4\u5165404\u9801\u9762\u4E86")}var f=e(n,[["render",a]]);export{f as default};
