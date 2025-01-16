@@ -1,1 +1,0 @@
-import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";import{o as e,c as t}from"./index.508d52bb.js";const r={name:"NotFound"};function n(a,c,s,p,_,f){return e(),t("h1",null,"Hi! \u4F60\u8AA4\u5165404\u9801\u9762\u4E86")}var d=o(r,[["render",n]]);export{d as default};
