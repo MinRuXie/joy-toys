@@ -1,0 +1,1 @@
+ul{list-style-type:none;display:inline-block}ul li{border:5px solid darkred;margin:10px;padding:10px;background-color:#8b0000;color:#fff;transition:.5s}ul li.open{background-color:#fff;color:#8b0000}ul li.hide{opacity:.5}.f-to-b{transform:translate(0)}.b-to-f{transform:translate(20px)}
