@@ -1,0 +1,1 @@
+import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";import{o as e,c as t,a as s}from"./index.6992812a.js";const c={},n={class:"not-found-page"},a=s("h1",null,"Hi! \u4F60\u8AA4\u5165404\u9801\u9762\u4E86",-1),r=[a];function _(d,i){return e(),t("div",n,r)}var m=o(c,[["render",_]]);export{m as default};
